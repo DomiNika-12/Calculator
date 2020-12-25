@@ -16,7 +16,7 @@ Colors: Yellow, black, grey and white are official colors of the Michigan Techno
 
 Icon: For the icon graphics provided by Android Studio has been used.
 
-<img src="calculatorIcon.jpg" width = "100" >
+<img src="calculatorIcon.jpg" width = "150" >
 
 ## Layout
 
